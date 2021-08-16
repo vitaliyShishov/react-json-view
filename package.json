@@ -1,7 +1,7 @@
 {
-    "name": "react-json-view",
+    "name": "@vitalii_simloud/react-json-view",
     "description": "Interactive react component for displaying javascript arrays and JSON objects.",
-    "version": "1.21.3",
+    "version": "1.0.0",
     "main": "dist/main.js",
     "dependencies": {
         "flux": "^4.0.1",
@@ -32,6 +32,7 @@
         "nyc": "^15.1.0",
         "prettier": "^2.2.1",
         "react": "^16.14.0",
+        "react-anchorme": "^2.2.1",
         "react-dom": "^16.14.0",
         "react-github-button": "^0.1.11",
         "react-hot-loader": "^4.13.0",
